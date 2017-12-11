@@ -8,6 +8,8 @@
 ## 标题2
 * 子栏目1
 
+<pre><code>if you are a bottle</code></pre>
+
 # 插入一个表格
 
 # 插入一个链接？
